@@ -34,9 +34,9 @@ I'm interested in working on front-end web development projects, especially thos
 
 GitHub: @bhatshakir11
 
-LinkedIn: [Your LinkedIn Profile] (Add your LinkedIn link here)
+LinkedIn: [Shakir Bhat] (https://in.linkedin.com/in/shakir-bhat-a106562bb)
 
-Email: [Your Email] (Optional: Add your email here if you want to share it)
+Email: [b.shakir8491@gmail.com]
 
 
 ⚡ Fun Fact
